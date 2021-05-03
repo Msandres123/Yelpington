@@ -1,0 +1,12 @@
+{
+    "id": "three-needs",
+    "name": "Three Needs",
+    "address": "185 Pearl St.",
+    "phone": "(802)-479-0119",
+    "hours": "4:00 pm - 12:00 pm",
+    "lat":"44.480318",
+    "lon": "-73.211670",
+    "notes": [
+      "Love the pizza here, dope selection of beers on tap, and you can chain smoke darts on the patio out back."
+    ]
+  }

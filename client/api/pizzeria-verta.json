@@ -1,0 +1,13 @@
+{
+    "id": "pizzeria-verta",
+    "name": "Pizzeria Verta",
+    "address": "156 St Paul St",
+    "phone": "(802)-489-5644",
+    "hours": "5:00 pm - 8:00 pm",
+    "lat":"44.475220", 
+    "lon":"-73.21360",
+    "notes": [
+      "The wood-fired pizza is exceptional, drinks ain't bad either.\n",
+      "Great Neapolitan pizzas, which is hard to find in these parts, bud."
+    ]
+  }

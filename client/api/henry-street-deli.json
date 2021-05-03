@@ -1,0 +1,12 @@
+{
+  "id": "henry-street-deli",
+  "name": "Henry Street Deli",
+  "address": "11 Henry St.",
+  "phone": "(802)-864-1754",
+  "hours": "7:00 am - 9:00 pm",
+  "lat": "44.484010",
+  "lon": "-73.205240",
+  "notes": [
+    "Awesome breakfast sandwiches, and fantastic subs. Just be wary of going here on a saturday morning, places is usually packed with hungover college kids"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "leunig's-bistro",
+    "name": "Leunig's Bistro",
+    "address": "115 Church St.",
+    "phone": "(802)-863-37059",
+    "hours": "12:00pm - 8:00pm",
+    "lat": "44.477250",
+    "lon": "-73.212780",
+    "notes": [
+      "The food is phenomenal, love the Carbonara. The bartenders here are awesome, so the cocktails are great."
+    ]
+  }

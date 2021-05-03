@@ -1,0 +1,12 @@
+{
+    "id": "skinny-pancake",
+    "name": "Skinny Pancake",
+    "address": "60 Lake St.",
+    "phone": "(802)-540-0188",
+    "hours": "8:00 am - 7:00 pm",
+    "lat": "44.47700",
+    "lon": "-73.219528",
+    "notes": [
+      "I really enjoy the heart breaker crepe when I have the munchies. However, half the waitstaff here reeks of patchouli oil, which stinks."
+    ]
+  }

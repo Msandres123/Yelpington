@@ -1,0 +1,65 @@
+/*--Boogaloo font family from google fonts--*/
+@import url("https://fonts.googleapis.com/css2?family=Boogaloo&display=swap");
+/*--body margin 0% prevents any access white space--*/
+body {
+  margin: 0%;
+}
+/*--Styling for the application it's self, aligns text and content to the center and sets background color, and font family--*/
+#App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  background-color: red;
+  margin: 0;
+  font-family: "Boogaloo", cursive;
+}
+/*--Styling for the nav-bar, spaces out the restaurant and home links inside the bar, and sets nav-bar backgroud--*/
+#nav-style {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  background-color: black;
+  margin: 0;
+}
+/*--Style for the links within the nav-bar removes underline text-decoration and sets font color--*/
+#nav-style a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+/*--Styling for the home page--*/
+#home-style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  width: 100vw;
+}
+/*--styling for the restaurant information page, sets background color--*/
+#rest-wrap {
+  background-color: white;
+}
+/*--styling for the content in the restaurant information page--*/
+#rest-info-map {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: white;
+}
+/*--Styling for the map (just sets it in proper position)--*/
+#rest-map {
+  margin-top: 5vh;
+  margin-left: 10vw;
+  margin-right: 2vw;
+  margin-bottom: 2vh;
+  text-align: center;
+}
+/*--Styling for the restaurant information--*/
+#rest-info {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin-top: 3vh;
+  margin-right: 15vw;
+}

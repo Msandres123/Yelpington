@@ -1,0 +1,12 @@
+{
+    "id": "juniper",
+    "name": "Juniper",
+    "address": " 41 Cherry St.",
+    "phone": "(802)-651-5027",
+    "hours": "8:00am - 9:00pm",
+    "lat": "44.4790187",
+    "lon": "-73.2176074",
+    "notes": [
+      "The atmosphere is very upscale, and surprisingly unpretentious, however there are some business casual douches here on occasion."
+    ]
+  }
