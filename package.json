@@ -4,7 +4,9 @@
   "description": "Burlington Code Academy restaurant app",
   "main": "index.js",
   "scripts": {
-    "test": "node sanityCheck.js"
+    "test": "node sanityCheck.js",
+    "start": "node server.js",
+    "heroku-postbuild": "cd client && npm install && npm run build"
   },
   "repository": {
     "type": "git",
