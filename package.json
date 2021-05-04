@@ -4,8 +4,7 @@
   "description": "Burlington Code Academy restaurant app",
   "main": "index.js",
   "scripts": {
-    "test": "node sanityCheck.js",
-    "build": "react-scripts build"
+    "test": "node sanityCheck.js"
   },
   "repository": {
     "type": "git",
