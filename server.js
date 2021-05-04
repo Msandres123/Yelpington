@@ -7,7 +7,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 //allows only folders in the client folder to be viewed
-app.use(express.static("./client"));
+app.use(express.static("./client/build"));
 
 //Sets up route to get all restaurants by given id
 app.get("/api", (req, res) => {
@@ -21,7 +21,7 @@ app.get("/api/:id", (req, res) => {
 
 //wild card catch all, not really doing anything atm may set up 404 page later idk
 app.get("*", (req, res) => {
-  res.sendFile(path.resolve("./client/public/index.html"));
+  res.sendFile(path.resolve("./client/build/index.html"));
 });
 
 //Displays a message in the terminal informing host which port back end is running on
